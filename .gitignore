@@ -1,0 +1,15 @@
+.DS_Store
+
+app/cache/*
+!app/cache/index.html
+!app/cache/.htaccess
+
+app/logs/*
+!app/logs/index.html
+!app/logs/.htaccess
+
+.idea
+cache
+app/config/development/database.php
+app/config/production/database.php
+app/config/cms_config.php
